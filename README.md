@@ -31,7 +31,7 @@ For further information about the event, visit the event sponsoring guide: https
  
 ## Theme Used
 
-* [H-code : https://themeforest.net/item/hcode-multipurpose-onepage-multi-page-template/11717596
+* H-code : https://themeforest.net/item/hcode-multipurpose-onepage-multi-page-template/11717596
 
  
 ### Useful Links
