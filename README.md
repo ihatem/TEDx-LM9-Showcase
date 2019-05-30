@@ -9,6 +9,9 @@ This is an exported version of the original wordpress website. I worked on this 
 
 Github Pages : https://ihatem.github.io/TEDx-LM9-Showcase/
 
+## Screenshot 
+![App screenshot!](https://raw.githubusercontent.com/ihatem/TEDx-LM9-Showcase/master/wp-content/uploads/tedx-lm9-sketch.png)
+
 ## About TEDx 
 
 The TEDx Program is designed to help communities, organizations and individuals to spark conversation and connection through local TED-like experiences.
